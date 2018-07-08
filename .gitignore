@@ -6,3 +6,7 @@ node_modules
 # misc
 .DS_Store
 npm-debug.log
+
+# build files
+bundle.js
+bundle.js.map
