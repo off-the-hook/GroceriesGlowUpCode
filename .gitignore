@@ -3,6 +3,10 @@
 # dependencies
 node_modules
 
+# build artifacts
+public/bundle.js
+public/bundle.js.map
+
 # misc
 .DS_Store
 npm-debug.log
